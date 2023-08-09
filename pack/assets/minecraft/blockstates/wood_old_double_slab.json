@@ -1,0 +1,6 @@
+ {
+    "variants": {
+        "normal": { "model": "double_alpha_slab" },
+        "all":    { "model": "double_alpha_slab" }
+    }
+}

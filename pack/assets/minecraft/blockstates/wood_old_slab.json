@@ -1,0 +1,7 @@
+ 
+{
+    "variants": {
+        "half=bottom": { "model": "bottom_alpha_slab" },
+        "half=top": { "model": "top_alpha_slab" }
+    }
+}
