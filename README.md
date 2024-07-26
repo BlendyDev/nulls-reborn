@@ -7,6 +7,7 @@ Continuation of the Nulls Reborn Hypixel Skyblock texture pack for glitch items.
 - 1.7 textures for Water/Lava/Water (No Spread)/Lava (No Spread)
 - Textures for placed alpha slab (similar to the item texture provided by the original version of the pack)
 - Null map texture
+- Null sapling texture
 - Updated icon with correct openGL untextured pink
 
 ## Credits
