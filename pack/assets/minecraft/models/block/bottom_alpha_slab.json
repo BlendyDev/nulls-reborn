@@ -1,9 +1,9 @@
 {
     "parent": "block/half_slab",
     "textures": {
-        "bottom": "blocks/alpha_slab",
-        "top": "blocks/alpha_slab",
-        "side": "blocks/alpha_slab"
+        "bottom": "blocks/alpha/alpha_slab",
+        "top": "blocks/alpha/alpha_slab",
+        "side": "blocks/alpha/alpha_slab"
     }
 }
 
